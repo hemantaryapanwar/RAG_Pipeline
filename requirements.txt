@@ -1,5 +1,14 @@
 langchain
 langchain-core
 langchain-community
+langchain-openai
 pypdf
 pymupdf
+sentence-transformers
+faiss-cpu
+chromadb
+numpy
+scikit-learn
+reportlab
+python-dotenv
+langchain_openai
